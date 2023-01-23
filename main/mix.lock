@@ -1,0 +1,4 @@
+%{
+  "telemetry": {:hex, :telemetry, "1.2.1", "68fdfe8d8f05a8428483a97d7aab2f268aaff24b49e0f599faa091f1d4e7f61c", [:rebar3], [], "hexpm", "dad9ce9d8effc621708f99eac538ef1cbe05d6a874dd741de2e689c47feafed5"},
+  "thousand_island": {:hex, :thousand_island, "0.5.16", "044bddaf54a2db2bdd6d5e7617936a3ef5d6beb19217eed88f148d97e3271448", [:mix], [{:telemetry, "~> 0.4 or ~> 1.0", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "76eec97217118cec96e7d8a07272543abe710ee220668132f3bbf2eaa6a93f66"},
+}
